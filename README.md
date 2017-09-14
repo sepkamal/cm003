@@ -10,3 +10,6 @@ Remove this repo
 
 This cool line is from RStudio
 this is also from Rstudiooooo
+
+
+This is my local conflict
