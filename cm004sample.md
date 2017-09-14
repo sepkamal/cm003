@@ -1,22 +1,36 @@
-cm004
-================
+# cm004
+
+# this is a level 1 header
+
+## This is my header random editttt
+
+
 
 This is a line of text
 
--   bullet 1
--   bullet 2
+- bullet 1
+- bullet 2
 
-``` r
+
+```r
 x <- rnorm(100)
 y <- rnorm(100)
 plot(x, y)
 ```
 
-![](cm004sample_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png)
+![](cm004sample_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 
-``` r
+
+```r
 summary(x)
 ```
 
-    ##     Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
-    ## -2.14993 -0.58541 -0.05213  0.02002  0.60583  2.22496
+```
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+## -2.0746 -0.5727  0.2080  0.1582  0.8552  2.9806
+```
+
+
+
+
+
